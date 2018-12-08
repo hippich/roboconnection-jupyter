@@ -1,0 +1,21 @@
+{
+    "name": "roboconnection-jupyter",
+    "version": "0.0.1",
+    "description": "A juputer notebook for testing roboconnection",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com:wwlib/roboconnection-jupyter.git"
+    },
+    "keywords": [
+        "robo,robot,connection,rom,remote operation mode"
+    ],
+    "author": "Andrew Rapo <andrew@wwlib.org> (http://wwlib.org/)",
+    "license": "MIT",
+    "dependencies": {
+        "roboconnection": "^0.0.1"
+    }
+}
