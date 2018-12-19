@@ -1,4 +1,4 @@
-### roboconnection-jibo
+### roboconnection-jupyter
 
 A juputer notebook for testing roboconnection.
 
