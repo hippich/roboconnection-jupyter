@@ -2,8 +2,15 @@
 
 A juputer notebook for testing roboconnection.
 
+[roboconnection-jibo.html](./docs/roboconnection-jibo.html)
+
 ![Demo video](./docs/roboconnection-jupyter-demo.png)
 [Demo video](https://youtu.be/oy1xNLWU8Ms)
+
+### installing
+```
+yarn
+```
 
 ### prerequisites
 

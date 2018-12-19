@@ -250,9 +250,9 @@ request@^2.88.0:
     tunnel-agent "^0.6.0"
     uuid "^3.3.2"
 
-roboconnection@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.npmjs.org/roboconnection/-/roboconnection-0.0.1.tgz#b0b7b3253ee54e705bd99ebfe1cbb69e58a37333"
+roboconnection@^0.0.2:
+  version "0.0.2"
+  resolved "https://registry.npmjs.org/roboconnection/-/roboconnection-0.0.2.tgz#579fe0808872bcc3afaf44ca6325d25e1af05bec"
   dependencies:
     axios "^0.18.0"
     request "^2.88.0"

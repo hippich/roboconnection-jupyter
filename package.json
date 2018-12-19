@@ -1,6 +1,6 @@
 {
     "name": "roboconnection-jupyter",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "A juputer notebook for testing roboconnection",
     "main": "index.js",
     "scripts": {
@@ -16,6 +16,6 @@
     "author": "Andrew Rapo <andrew@wwlib.org> (http://wwlib.org/)",
     "license": "MIT",
     "dependencies": {
-        "roboconnection": "^0.0.1"
+        "roboconnection": "^0.0.2"
     }
 }
